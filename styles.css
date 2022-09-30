@@ -1,0 +1,43 @@
+h1 {
+    color:red;
+
+}
+h3 {
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+}
+.ordered {
+    color: brown;
+}
+.test1 { 
+    color:brown;
+    background-color: yellow;
+    font-weight: bold;
+}
+.test2 {
+    color:brown;
+    font-weight: bold;
+    text-decoration: line-through;
+}
+.test3 {
+    color:brown;
+   font-style: italic;
+   text-decoration: underline;
+}
+.external{
+    color:brown;
+    font-weight: bold;
+    letter-spacing: 7px;
+}
+.lastpart{
+    color:brown;
+    font-weight: bold;
+    letter-spacing: 7px;
+    background-color: yellow;
+}
+.test4{
+    color:brown;
+    font-style: italic;
+    background-color: yellow;
+}
